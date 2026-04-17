@@ -8,6 +8,8 @@ Id love if i was able to use an oled display instead of the LCD, because it woul
 
 ## Wiring
 
+<img width="835" height="725" alt="image" src="https://github.com/user-attachments/assets/a2fa047a-a2c4-4aa1-9c13-29f3a422028d" />
+
 
 ## BOM
 
