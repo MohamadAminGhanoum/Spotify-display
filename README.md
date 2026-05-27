@@ -3,6 +3,11 @@ A display to display the time + the current playing song in my spotify playlist 
 
 Id love if i was able to use an oled display instead of the LCD, because it would look a lot better with a better quality. Though the budget does not allow it, so i have to stick with this LCD. 
 
+## Final build:
+<img width="4608" height="3456" alt="IMG_20260525_232000" src="https://github.com/user-attachments/assets/9ba343c1-3fb4-4dfd-8610-35e33c1b1737" />
+
+NOTE: i just put a face of robot, but i wanted this to show my spotify playback, however as i dont have spotify premium currently, i think i will upload something else that would be more useful. I will update the repo with what it will be.
+
 ## Render
 <img width="756" height="656" alt="Screenshot 2026-04-17 214247" src="https://github.com/user-attachments/assets/09b88b07-7dad-4fe2-a8f0-0b61a75d782c" />
 
